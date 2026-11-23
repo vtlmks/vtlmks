@@ -6,6 +6,7 @@ C & Assembly programmer. M680x0, x86/x86-64. Specialising in persuading processo
 
 ### Areas of Particular Interest
 
+- **[ffbase64](https://github.com/vtlmks/ffbase64)** - A single-header C99 MIME Base64 decoder that uses AVX-512 VBMI and is tuned for AMD Zen 5.
 - **[ffpng](https://github.com/vtlmks/ffpng)** - A high-performance PNG decoder written from scratch in C.
 - **[mindchess](https://github.com/vtlmks/mindchess)** - A high-performance chess move generator. Billions of positions examined per second. His Lordship remains unable to play chess at anything approaching this speed.
 - **[ipv6-avx512](https://github.com/vtlmks/ipv6-avx512)** - A high-performance IPv6 parser using AVX-512.

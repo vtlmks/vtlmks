@@ -20,3 +20,11 @@ Instruction scheduling, SIMD, cache behaviour, memory latency, branch prediction
 His Lordship believes performance claims should be supported by reproducible measurements.
 
 The compiler has occasionally expressed a different opinion.
+
+### Professional Unavailability
+
+His Lordship is unavailable for consulting, employment, speaking engagements, code reviews, interviews, and other professional opportunities.
+
+This especially includes opportunities described as *exciting*.
+
+Telephone enquiries will be terminated promptly and without ceremony.

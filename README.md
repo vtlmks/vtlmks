@@ -23,8 +23,10 @@ The compiler has occasionally expressed a different opinion.
 
 ### Professional Unavailability
 
-His Lordship is not seeking employment, consulting engagements, speaking opportunities or other professional adventures.
-
-Technical discussions are considerably more welcome than recruitment enquiries.
+His Lordship is unavailable for employment, consulting, speaking engagements, code reviews, interviews and other professional opportunities, however interesting or rewarding they may appear.
 
 Opportunities described as exciting are presumed to be neither.
+
+Issues concerning the published repositories may be raised in their respective issue trackers.
+
+Software is provided freely. The author's time is not included in the distribution.

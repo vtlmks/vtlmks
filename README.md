@@ -23,8 +23,8 @@ The compiler has occasionally expressed a different opinion.
 
 ### Professional Unavailability
 
-His Lordship is unavailable for consulting, employment, speaking engagements, code reviews, interviews, and other professional opportunities.
+His Lordship is not seeking employment, consulting engagements, speaking opportunities or other professional adventures.
 
-This especially includes opportunities described as *exciting*.
+Technical discussions are considerably more welcome than recruitment enquiries.
 
-Telephone enquiries will be terminated promptly and without ceremony.
+Opportunities described as exciting are presumed to be neither.

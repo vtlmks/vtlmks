@@ -25,7 +25,7 @@ The compiler has occasionally expressed a different opinion.
 
 His Lordship is unavailable for employment, consulting, speaking engagements, code reviews, interviews and other professional opportunities, however interesting or rewarding they may appear.
 
-Opportunities described as exciting are presumed to be neither.
+Opportunities described as *exciting* are presumed to be neither.
 
 Issues concerning the published repositories may be raised in their respective issue trackers.
 
